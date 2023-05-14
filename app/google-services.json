@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741263485262",
+    "project_id": "xpenzi-76572",
+    "storage_bucket": "xpenzi-76572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741263485262:android:b0aca65d50defedc46961f",
+        "android_client_info": {
+          "package_name": "com.xpenzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741263485262-his7kmdegcnn1v770n0glcbmir68te39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xpenzi",
+            "certificate_hash": "949a7788177810c63816771f1c2b10f00f3c6816"
+          }
+        },
+        {
+          "client_id": "741263485262-9f7goamufpg6nsg40sik5v1s791dvi6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4i3N13Yg6mxnxBSJjlP793J0eKFoRv1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741263485262-9f7goamufpg6nsg40sik5v1s791dvi6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

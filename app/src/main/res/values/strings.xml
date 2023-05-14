@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coins</string>
+    <string name="enter_your_mobile_number">Enter mobile number</string>
+    <string name="login">Login</string>
+</resources>
